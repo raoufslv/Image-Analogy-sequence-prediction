@@ -6,7 +6,9 @@ This project is a python implementation of [Deep Image Analogy](https://arxiv.or
 
 ## Some results
 
-![](results/results.jpg)
+![](results/results1.png)
+![](results/results2.png)
+![](results/results3.png)
 
 ## Requirements
 
