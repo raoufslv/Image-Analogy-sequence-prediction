@@ -4,6 +4,10 @@
 
 This project is a python implementation of [Deep Image Analogy](https://arxiv.org/abs/1705.01088).
 
+## Our slides
+
+https://www.canva.com/design/DAF7HNHp44M/usiYD30n8ShYEWr85U96-A/edit?utm_content=DAF7HNHp44M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## Some results
 
 ![](results/results1.png)
